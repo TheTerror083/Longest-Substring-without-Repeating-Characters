@@ -1,4 +1,3 @@
 # Longest Substring without Repeating Characters
- Finds the length of the longest substring without repeating characters in the given string. <br>
- The string is a command line argument.
- 
+Receives a string as a command line argument and finds the length of the longest substring where no repeating characters exist. <br>
+When a repeating character is encountered, the conunter is reset.
